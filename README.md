@@ -1,12 +1,3 @@
-# React E-Commerce App
-
-This project is a basic e-commerce React application designed to demonstrate the use of routing, Bootstrap integration, and reusable components. It features a responsive design, navigation, a product list, and detailed product pages, making it a great foundational project for React developers.
-
----
-
----
-
-## Introduction
 
 The **React E-Commerce App** is a simple and elegant project built with React. It uses Bootstrap for styling and `react-router-dom` for navigation between pages. The application demonstrates the use of routes, reusable components, and responsive UI design, making it ideal for practicing modern React development concepts.
 
